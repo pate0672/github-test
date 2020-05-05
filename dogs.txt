@@ -3,3 +3,4 @@ dog 2 - Lab
 dog 3 - German 
 dog 4 - small dog
 dog 5 - big dog
+dog 6 - medium dog
