@@ -1,2 +1,3 @@
 dog 1 - Husky
 dog 2 - Lab
+dog 3 - Pam
